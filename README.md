@@ -1,8 +1,17 @@
-# JSSetup
+# New Node JS Development Enc Setup
+
+## VS Code Extensions
+1. EsLint
+2. Prettier
+3. Npm Intellisense
+4. Powershell
+5. Document This
+6. Rest Client
+7. Live Server
 
 ESlint will show all types of error messages on vscode.
 
-Steps To use EsLint in vscode 
+## Steps To use EsLint in vscode 
 1. Install EsLint Cli Globally
     `npm i -g eslint-Cli`
 
