@@ -31,3 +31,5 @@ ESlint will show all types of error messages on vscode.
 4. Ctrl+Shift+` - open terminal
 5. Ctrl+/ - Comments out current line
 6. Alt, or Alt+shift - Move line Up or down, Copy line up or down
+7. Ctrl+ Click on a var - Go to definition of the Variable
+8. clg + tab - Console.log(object);
