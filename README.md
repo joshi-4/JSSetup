@@ -8,6 +8,7 @@
 5. Document This
 6. Rest Client
 7. Live Server
+8. Javascript Code Snippets
 
 ESlint will show all types of error messages on vscode.
 
@@ -22,3 +23,11 @@ ESlint will show all types of error messages on vscode.
 
 4. Ctrl+Shift+P and select ESLint Create Configuration or in powerhsell fire 
     `eslint ./`
+
+## Useful Shortcuts
+1. Ctrl+Shift+P - Open Command Pallet
+2. Ctrl+P - Search Bar to open a file quickly.
+3. F2 - to change var name
+4. Ctrl+Shift+` - open terminal
+5. Ctrl+/ - Comments out current line
+6. Alt, or Alt+shift - Move line Up or down, Copy line up or down
